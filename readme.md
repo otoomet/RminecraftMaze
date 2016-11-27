@@ -3,7 +3,7 @@
 Example code to produce mazes for the popular Minecraft game.  This is
 very superficial code but you may find it useful for you own hacking.
 
-![inside a maze](inside_maze.png)
+![inside a maze](inside_maze.png){:width="360px"}
 
 ## Requirements:
 
@@ -22,7 +22,7 @@ Minecraft, 12x12 is quite a lot.
 
 Enjoy :-)
 
-![maze from above](maze_from_above.png)
+![maze from above](maze_from_above.png){:width="460px"}
 
 Ott
 
