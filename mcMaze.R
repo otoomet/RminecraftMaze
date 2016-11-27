@@ -40,7 +40,7 @@ mcMaze <- function(n=5, baseline=70,
                            # on top of it a lot of air
    addBlocks(x1,baseline-1,z1, x2,baseline-1,z2, SOIL, conn)
                            # one layer of soil
-   addBlocks(1,baseline+height,1, W,baseline+height,W, GLOWSTONE, conn)
+   addBlocks(1,baseline+height,1, W,baseline+height,W, ROCK, conn)
                            # rock roof
    g <- makeGraph(n, n)
    maze <- makeMaze_dfs(g)
