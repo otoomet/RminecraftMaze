@@ -3,6 +3,8 @@
 Example code to produce mazes for the popular Minecraft game.  This is
 very superficial code but you may find it useful for you own hacking.
 
+![inside a maze](inside_maze.png)
+
 ## Requirements:
 
 * Minecraft server.  I used the server setup as described in
@@ -19,6 +21,8 @@ The Rmaze package is slow for large mazes, but to have fun in
 Minecraft, 12x12 is quite a lot.
 
 Enjoy :-)
+
+![maze from above](maze_from_above.png)
 
 Ott
 
